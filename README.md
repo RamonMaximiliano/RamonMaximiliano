@@ -23,5 +23,5 @@ Just a guy learning web dev
   
   
   <div> 
-  <a href="www.linkedin.com/in/ramon-maximiliano-b75a9676" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ramon-maximiliano-b75a9676/?midToken=AQFZl87OZDsqTQ&midSig=1rI_znTGxOP9M1&trk=eml-email_m2m_invite_single_01-header-25-profile&trkEmail=eml-email_m2m_invite_single_01-header-25-profile-null-4hllah~kpoljjo4~qg-null-neptune%2Fprofile~vanity%2Eview" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
