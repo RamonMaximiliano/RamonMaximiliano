@@ -10,7 +10,6 @@ Just a guy learning web dev
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RamonMaximiliano&show_icons=true&theme=vision-friendly-dark&&include_all_commits=true&count_private=true" alt="Max's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMaximiliano&layout=compact&theme=vision-friendly-dark" alt="Max's most languages"/>
 </p>
  
  <!-- https://github.com/anuraghazra/github-readme-stats -->
